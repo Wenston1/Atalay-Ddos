@@ -4,7 +4,7 @@ pkg update && pkg upgrade
 
 pkg install python git -y
 
-git clone https://github.com/AtalayArslan/ddos-tool.git
+git clone https://github.com/AtalayArslan/Atalay-Ddos.com
 
 pip install pyfiglet
 
@@ -12,8 +12,8 @@ pip install PyScoks
 
 pip install dnspython
 
-cd ddos-tool
+cd Atalay-Ddos
 
-python3 ddos_tool.py
+python3 Atalay-Ddos
 
 𝘼𝙏𝘼𝙇𝘼𝙔 𝘼𝙍𝙎𝙇𝘼𝙉 
