@@ -14,6 +14,6 @@ pip install dnspython
 
 cd Atalay-Ddos
 
-python3 Atalay-Ddos
+python3 DdosAtalay.py
 
 𝘼𝙏𝘼𝙇𝘼𝙔 𝘼𝙍𝙎𝙇𝘼𝙉 
