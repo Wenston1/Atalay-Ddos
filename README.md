@@ -4,7 +4,7 @@ pkg update && pkg upgrade
 
 pkg install python git -y
 
-git clone https://github.com/AtalayArslan/Atalay-Ddos.com
+git clone https://github.com/Wenston1/Atalay-Ddos.git
 
 pip install pyfiglet
 
